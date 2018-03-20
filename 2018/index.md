@@ -3,6 +3,7 @@ layout: default
 title: 2018
 ---
 
+# Information
 **Deep Learning Camp Jeju**
 is an annual camp held at [Jeju Island, South Korea](https://en.wikipedia.org/wiki/Jeju_Island),
 which was [first launched in 2017](../2017/) with 20 participants from all over the world.
@@ -16,10 +17,10 @@ that come from various backgrounds but all interested in practicing and advancin
 
 ## Why should I apply?
 
-- You will have one whole month at Jeju to focus on a deep learning based project, surrounded with top class fellow researchers/developers
+- You will have **one whole month** at Jeju to focus on a deep learning based project, surrounded with top class fellow researchers/developers
 - You will be team up with wonderful mentors, that will help you progress your project
-- You will be provided full accommodation support, 1000 USD stipend, and up to 300 USD support for flights to Jeju
-- You will be provided xxx Google Cloud credits, to use to train your models
+- You will be provided full accommodation support, **1,000 USD stipend**, and up to **300 USD support** for flights to Jeju
+- You will be provided **xxx Google Cloud credits**, to use to train your models
 
 ## How does this work?
 
@@ -39,7 +40,7 @@ that come from various backgrounds but all interested in practicing and advancin
 - Jeju is a beautiful island, frequently referred to as the "Hawaii" in Asia
 
 
-# Applications
+# Application
 
 ## Requirements
 
@@ -54,7 +55,7 @@ that come from various backgrounds but all interested in practicing and advancin
 (Meanwhile, we recommend you start writing a brief introduction of what you'd like to work on!)
 
 
-# Important dates
+# Important Dates
 
 | Date | Description |
 | --- | --- |
@@ -86,14 +87,3 @@ that come from various backgrounds but all interested in practicing and advancin
     - An MIT licence is recommended, but can be changed with your mentor's consent.
 1. Are there restrictions to authorship of the to-be-released technical paper?
     - The paper should include you and your mentor, but can be extended with your mentor's consent.
-
-
-<!-- footer -->
-<footer class="site-footer">
-<span class="site-footer-credits">
-    This camp is organized by the
-    <a href="https://www.facebook.com/groups/TensorFlowKR">TensorFlow Korea User Group</a>,
-    and sponsored by the following organizations:
-    <i>TBA</i>
-</span>
-</footer>
