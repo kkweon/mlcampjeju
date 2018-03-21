@@ -10,5 +10,4 @@ group :jekyll_plugins do
     gem "jekyll-assets", git: "https://github.com/envygeeks/jekyll-assets"
     gem "mini_magick"
     gem "autoprefixer-rails"
-    gem "image_optim"
 end
